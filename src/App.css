@@ -67,6 +67,11 @@
     cursor: pointer;
 }
 
+.custom__button:hover{
+  background-color: var(--color-golden);
+  color: var(--color-white);
+}
+
 .p__cormorant {
   font-family: var(--font-base);
   color: var(--color-white);
